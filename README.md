@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Leonardo, a software developer based in São Paulo, Brazil.
+I’m [Leonardo](https://leonardo-nunes-armelim.github.io/Portfolio/), a software developer based in São Paulo, Brazil.
 
 I currently work as a data engineer at an international company and have previously worked at Amazon and other companies in the data and software engineering space.
 
