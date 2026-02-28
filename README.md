@@ -2,7 +2,7 @@
 
 I’m [Leonardo](https://leonardo-nunes-armelim.github.io/Portfolio/), a software developer based in São Paulo, Brazil.
 
-I currently work as a data engineer at an international company and have previously worked at Amazon and other companies in the data and software engineering space.
+I currently work as a data engineer at an international company and have previously worked at **Amazon** and other companies in the data and software engineering space.
 
 I’m interested in large-scale data systems and applied machine learning. I enjoy building hands-on projects from data pipelines to robotics and visual simulations, and sharing what I learn through tech content.
 
