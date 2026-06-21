@@ -13,3 +13,5 @@ Outside of work, I explore science, technology, creative coding, data visualizat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/leonardo-nunes-armelim/)
 
 [![Achievements](https://img.shields.io/badge/Achievements-GitHub-gold?logo=github)](https://github.com/Leonardo-Nunes-Armelim?tab=achievements)
+
+<!-- https://github-readme-stats.vercel.app/api/top-langs?username=Leonardo-Nunes-Armelim&show_icons=true&locale=en&layout=compact&theme=apprentice -->
